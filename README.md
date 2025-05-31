@@ -25,7 +25,7 @@ This project is a visualizer for various sorting algorithms. It provides an inte
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/sorting-visualizer.git
+   git clone https://github.com/ayush-sharaf/sorting-visualizer.git
    cd sorting-visualizer
    ```
 2. Install the dependencies:
